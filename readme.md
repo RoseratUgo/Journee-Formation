@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/RoseratUgo/Journee-Formation">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="src/assets/images/logo.png" alt="Logo" width="362px" height="228.5px">
   </a>
 
 <h3 align="center">Landing Page - Journée de Formation Maréchalerie ENE</h3>
