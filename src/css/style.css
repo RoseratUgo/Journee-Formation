@@ -1,0 +1,255 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+.header{
+    position: relative;
+    width: 100vw;
+    height: 55vh;
+    left: 0px;
+    top: 0px;
+    background-position: center;
+    background-size: cover;
+
+    background-image: url('../../src/assets/images/background.jpg');
+}
+
+.back{
+    position: absolute;
+    width: 100vw;
+    height: 55vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    background: rgba(68, 68, 68, 0.8);
+}
+
+.logo{
+    width: auto;
+    height: auto;
+    margin: 3vh;
+}
+
+.logo img{
+    height: 16vh;
+    background-size: contain;
+}
+
+.titleheader{
+    color: white;
+    margin-bottom: 1.5vh;
+}
+
+.spacer{
+    width: 36vw;
+    height: 2px;
+    border-radius: 500px;
+    background-color: #F18F3C;
+    margin-bottom: 1.5vh;
+}
+
+.datetitle{
+    color: white;
+    margin-bottom: 4vh;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 22;
+}
+
+.bouttons{
+    display: flex;
+}
+
+.btn-about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 8vh;
+    width: 18vw;
+    border: 1.8px solid #FFFFFF;
+    cursor: pointer;
+    transition: ease-out 300ms;
+    margin-right: 3vw;
+}
+
+.btn-about a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    font-style: normal;
+    font-weight: 400;
+    color: white;
+    text-decoration: none;
+}
+
+
+.btn-about:hover{
+    border: none;
+    background-color: white;
+}
+
+.btn-about a:hover{
+    color: #F18F3C;
+}
+
+.btn-reserver{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 8vh;
+    width: 18vw;
+    background-color: #F18F3C;
+    font-style: normal;
+    font-weight: 400;
+    color: white;
+    cursor: pointer;
+    transition: ease-out 300ms;
+}
+
+.btn-reserver a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    font-style: normal;
+    font-weight: 400;
+    color: white;
+    text-decoration: none;
+}
+
+.btn-reserver:hover{
+    background-color: white;
+}
+
+.btn-reserver a:hover{
+    color: #F18F3C;
+}
+
+.formatext{
+    margin-top: 6vh;
+    margin-right: 15vw;
+    margin-left: 15vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.left{
+    flex: 1;
+    margin-right: 6vw;
+}
+
+.flyer{
+    height: 95vh;
+    width: 35vw;
+    background-color: #5D676F;
+}
+
+
+.right{
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    flex: 3;
+}
+
+.containerformatext{
+    display: flex;
+    margin-bottom: 8vh;
+}
+
+.btn-rightformatext{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.btn-formatext{
+    background-color: #F18F3C;
+    color: white;
+    font-weight: 400;
+    font-size: 18;
+    margin-top: 3vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 7vh;
+    cursor: pointer;
+}
+
+.btn-formatext:hover{
+    background-color: white;
+    border: 1.8px solid #F18F3C;
+    color: #F18F3C;
+    transition: ease-out 300ms;
+}
+
+.para{
+    color: #5D676F;
+    font-weight: 400;
+    font-size: 16;
+    text-align: justify;
+}
+
+.titleformatext{
+    color: #5D676F;
+    font-weight: 700;
+    font-size: 30;
+    margin-bottom: 2vh;
+}
+
+.reserver{
+    display: flex;
+    flex-direction: column;
+    margin-top: 6vh;
+    margin-right: 15vw;
+    margin-left: 15vw;
+    margin-bottom: 8vh;
+}
+
+.titlereserver{
+    color: #5D676F;
+    font-weight: 700;
+    font-size: 30;
+    margin-bottom: 2vh;
+}
+
+.parareserver{
+    color: #5D676F;
+    font-weight: 400;
+    font-size: 16;
+    margin-bottom: 3vh;
+}
+
+#map{
+    height: 40vh;
+    width: 100vw;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #5D676F;
+    width: 100vw;
+    height: 6vh;
+}
+
+.footer a{
+    margin-right: 2vh;
+    text-decoration: none;
+    color: white;
+    font-weight: 300;
+    font-size: 14;
+}
