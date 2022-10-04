@@ -18,7 +18,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -216,8 +215,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/all-contributors/RoseratUgo/Admin-Pannel?style=for-the-badge
-[contributors-url]: https://github.com/RoseratUgo/Journee-Formation/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/RoseratUgo/Journee-Formation?style=for-the-badge
 [forks-url]: https://github.com/RoseratUgo/Journee-Formation/network/members
 [stars-shield]: https://img.shields.io/github/stars/RoseratUgo/Journee-Formation?style=for-the-badge
