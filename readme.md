@@ -18,10 +18,8 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![Coffee][coffee-shield]][coffee-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -227,3 +225,5 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [css3-url]: https://www.w3.org/Style/CSS/Overview.en.html
 [javascript-shield]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [javascript-url]: https://www.javascript.com/
+[coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
+[coffe-url]: https://www.buymeacoffee.com/RoseratUgo
