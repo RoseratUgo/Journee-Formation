@@ -226,4 +226,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [javascript-shield]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [javascript-url]: https://www.javascript.com/
 [coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
-[coffe-url]: https://www.buymeacoffee.com/RoseratUgo
+[coffee-url]: https://www.buymeacoffee.com/RoseratUgo
