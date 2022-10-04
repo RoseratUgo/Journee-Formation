@@ -93,8 +93,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 ### Built With
 
 * [![Htlm][html-shield]][html-url]
-* [![Htlm][html-shield]][html-url]
-* [![Htlm][html-shield]][html-url]
+* [![Css3][css3-shield]][css3-url]
+* [![JS][javascript-shield]][javascript-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
