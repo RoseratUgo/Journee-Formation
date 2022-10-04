@@ -82,7 +82,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- ROADMAP -->
 ## Roadmap
 
-- [*] Feature 1
+- [ * ] Feature 1
 - [ ] Feature 2
 - [ ] Feature 3
     - [ ] Nested Feature
