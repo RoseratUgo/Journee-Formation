@@ -225,7 +225,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [license-url]: https://github.com/RoseratUgo/Journee-Formation/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ugo-roserat/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: src/assets/images/screen.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
